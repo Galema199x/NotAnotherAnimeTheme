@@ -22,7 +22,7 @@
     Theme Background
   */
   --theme-background-image: url(https://w.wallha.com/ws/13/F6xbRuDS.jpg);
-  --background-blur: 5px; /* app background blur [default: 0px] */
+  --theme-background-blur: 5px; /* app background blur [default: 0px] */
 
   /*
     Main Theme Color
@@ -56,7 +56,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
